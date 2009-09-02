@@ -22,9 +22,9 @@ no_index:
     - xt
 requires:
   Any::Moose: 0.10
-  AnyEvent: 5.00
+  AnyEvent: 5.12
   Data::UUID: 0
   Object::Container: 0.03002
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.01001
